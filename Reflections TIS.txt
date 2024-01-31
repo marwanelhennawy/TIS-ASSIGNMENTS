@@ -1,0 +1,59 @@
+1)Reflection on Assignment 1: Clarity Techworks Virtual Meeting
+
+Attending the virtual meeting hosted by Clarity Techworks Sdn. Bhd. was a valuable experience that provided insights into the dynamic world of Information and Communications Technology (ICT). As a software engineering student, it was enlightening to hear from Chief Technology Officer Yee Soon Tuck and QA Analyst Ms. Liyana about the company's innovative solutions and the diverse career opportunities they offer.
+
+The key takeaways highlighted the importance of strong technical skills and proficiency in tools like Adobe Creative Suite, user research, and software testing methodologies. As an aspiring software engineer, understanding the specific skills required for roles such as Android Developer, Web/API Developer, UI/UX Designer, and QA Testing Analyst will undoubtedly shape my career path.
+
+The emphasis on proactive learning, continuous upskilling, and adaptability resonated with my personal commitment to staying relevant in the ever-evolving ICT landscape. The information about comprehensive training and mentorship at Clarity Techworks aligns with my desire for continuous growth as a software engineering professional.
+
+The poster reinforced the significance of the ICT sector's rapid growth, promising abundant job opportunities for individuals with strong skills. Clarity Techworks, with its commitment to innovation and employee development, stands out as an appealing employer in the ICT sector. This virtual meeting has motivated me to focus on acquiring the specific skills mentioned for various roles, positioning myself for a rewarding career in the industry.
+
+
+
+2) assignment 2
+
+The virtual visit to UTMDigital's digital department prompted a reevaluation of my learning approach. Engaging with online demonstrations revealed practical applications of the course material, fostering a deeper understanding and sparking genuine interest. The virtual setting highlighted the importance of adaptability in the face of technological advancements. The supportive UTMDigital staff, though virtual, created a positive learning environment, emphasizing the value of seeking guidance. In summary, the online visit was transformative, shifting my focus towards a more practical and applied approach, and instilling enthusiasm for the digital aspects of my academic journey.
+
+
+
+3)Reflection on Assignment 3: Credence System Development Talk
+
+The Industry Talk-2 on "System Development @ Credence" provided valuable insights into the meticulous System Development Life Cycle (SDLC) and the tools used. As a prospective system developer, understanding the phases from analysis to maintenance reinforced the importance of structured planning.
+
+Discovering the tools like Druid, PostgreSQL, Tableau, PowerBi, Spark, and Airflow emphasized the diverse skill set required for success. Credence's history and Ms. Qistina's journey highlighted the company's commitment to innovation and continuous learning, despite its smaller size.
+
+The personal reflection aligns with my aspirations, emphasizing the need for perpetual self-learning in the ever-evolving technological landscape, especially with the rise of AI technologies like ChatGPT. Looking ahead, the commitment to staying informed and adapting to trends resonates with my dedication to personal and professional growth as a system developer.
+
+
+4) Reflection on Assignment 4: Indah Water Konsortium Visit
+
+The visit to Indah Water Konsortium (IWK) Sdn Bhd provided a unique perspective on the application of software engineering beyond traditional roles. Witnessing the integration of software and hardware in wastewater treatment highlighted the diverse opportunities available for software engineering graduates.
+
+The facility's demonstration of software engineers programming the monitoring panel, coding buttons, and managing pumps showcased the critical role of software in the efficient operation of the sewerage system. The interaction between the Sequential Batch Reactor (SBR), Motor Control Center (MCC), and Supervisory Control and Data Acquisition (SCADA) system revealed the intricate connection between software and the overall system functionality.
+
+The wastewater treatment process, particularly the utilization of the SBR to separate oil and water, emphasized the potential for software engineers to contribute to environmental solutions. The visit underscored the importance of creative problem-solving and commitment in addressing real-world challenges, showcasing the broader impact software engineering can have on building a sustainable and resource-efficient society.
+
+Overall, the experience instilled a sense of optimism, showcasing the versatility of software engineering in industries beyond conventional app development. The visit emphasized that software engineering graduates can play a crucial role in sectors like water treatment, offering promising avenues for employment and innovation. It broadened my understanding of the diverse applications of software engineering, encouraging a perspective that extends beyond traditional roles and into fields with significant societal impact.
+
+
+
+5) Reflection on PC Disassembly and Assembly Assignment
+
+As a software engineering student with limited hardware experience, I learned about PC disassembly and assembly through a YouTube video. Despite my software background, the step-by-step process clarified the physical components of a computer system, from the motherboard to peripherals.
+
+Disassembly involved carefully removing components, providing a hands-on understanding of the hardware supporting my software work. During assembly, precision was crucial in connecting components, offering insights into the holistic nature of computer systems.
+
+This assignment bridged the gap between software and hardware for me, emphasizing the importance of a comprehensive perspective in the technology field.
+
+
+
+6) Reflection on design think:
+
+Engaging in this real-world project has significantly broadened my perspective on the design process. Working on an authentic problem provided a hands-on experience that transcended theoretical knowledge. The interviews with individuals facing gym-related challenges were eye-opening, allowing me to connect with users on a personal level and comprehend the real issues they encounter.
+
+The use of empathy as a central design principle proved transformative. It guided our problem-solving approach, fostering a deep understanding of users' frustrations and needs. This empathetic lens fueled creativity during the ideation phase, resulting in solutions that were more attuned to the actual experiences of our target audience.
+
+Collaborating within a diverse team underscored the iterative nature of design. Regular feedback loops and constant improvements became fundamental to our process. This collaborative dynamic emphasized adaptability and resilience as crucial traits when tackling intricate design challenges.
+
+In essence, this project has been more than a learning opportunity; it has been a journey of growth. It reinforced the notion that successful design is not solely about technical functionality but about the positive impact it has on the lives of users. The blend of real-world problem-solving, empathetic design thinking, and collaborative teamwork has been a transformative experience, reshaping my approach to software design.
+
